@@ -87,7 +87,7 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
     />
 </a>
 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+<a href="nicollasisrael1227@gmail.com">
     <img 
         alt="Gmail" 
         title="Entre em contato"

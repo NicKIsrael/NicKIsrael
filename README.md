@@ -75,6 +75,7 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
 
 <br/>
 <br/>
+
 ### 📫 Contato
 
 <p align="left">
@@ -95,6 +96,7 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
 </a>
 </p>
 <br/>
+
 ---
 
 ### 🚀 Atualmente estudando

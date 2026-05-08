@@ -6,23 +6,6 @@ Me chamo Nicollas Israel dos Santos, tenho 20 anos e sou natural de Minas Gerais
 
 Estou focado principalmente no desenvolvimento backend utilizando C#, além de estudar arquitetura de software, banco de dados, Linux e boas práticas de desenvolvimento. Busco evoluir constantemente como desenvolvedor através de projetos, estudos e desafios práticos.
 
-<p align="left">
-    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SEU_USUARIO?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -137,7 +120,7 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
 ### 📫 Contato
 
 <p align="left">
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/nicollas-israel-433a4b371/">
     <img 
         alt="LinkedIn" 
         title="Meu LinkedIn"
@@ -145,7 +128,7 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
     />
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img 
         alt="Gmail" 
         title="Entre em contato"

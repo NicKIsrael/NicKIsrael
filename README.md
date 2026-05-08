@@ -96,27 +96,6 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
 
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
----
-
-### 🚀 Atualmente estudando
-
-- Desenvolvimento Backend com C#
-- .NET e APIs REST
-- Banco de Dados Relacional
-- Arquitetura de Software
-- Git e GitHub
-- Linux
-- Estruturas de Dados e Algoritmos
-
----
-
 ### 📫 Contato
 
 <p align="left">
@@ -136,3 +115,21 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
     />
 </a>
 </p>
+
+<br/>
+
+---
+
+### 🚀 Atualmente estudando
+
+- Desenvolvimento Backend com C#
+- .NET e APIs REST
+- Banco de Dados Relacional
+- Arquitetura de Software
+- Git e GitHub
+- Linux
+- Estruturas de Dados e Algoritmos
+
+---
+
+

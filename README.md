@@ -75,28 +75,6 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="Tecnologias" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-<br/>
-
 ### 📫 Contato
 
 <p align="left">
@@ -116,9 +94,7 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
     />
 </a>
 </p>
-
 <br/>
-
 ---
 
 ### 🚀 Atualmente estudando

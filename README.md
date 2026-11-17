@@ -1,14 +1,25 @@
 # 👨🏻‍💻 Nicollas Israel
 
-**`Desenvolvedor Backend | Estudante de Engenharia de Software`**
+**`AI Builder | Soluções com IA generativa | Estudante de Engenharia de Software`**
 
-Me chamo Nicollas Israel dos Santos, tenho 20 anos e sou natural de Minas Gerais. Atualmente curso Engenharia de Software na Uninter e sou apaixonado por tecnologia desde criança. Sempre fui muito ligado a computadores, programação e tudo relacionado ao desenvolvimento de software, área que decidi seguir profissionalmente.
+Me chamo Nicollas Israel dos Santos, tenho 20 anos, sou de Minas Gerais e curso Engenharia de Software na Uninter.
 
-Estou focado principalmente no desenvolvimento backend utilizando C#, além de estudar arquitetura de software, banco de dados, Linux e boas práticas de desenvolvimento. Busco evoluir constantemente como desenvolvedor através de projetos, estudos e desafios práticos.
+Uso IA generativa para resolver problemas reais de negócio. Meu papel é entender o problema com quem vive a operação, transformar isso em requisitos claros, conduzir ferramentas como Claude e OpenAI Codex na construção da solução e testar cada fluxo até funcionar para quem vai usar.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Projetos em destaque
+
+- **[Portal ABA Consultorias](https://github.com/AbaConsultorias/aba-consultorias-portfolio)**: site institucional e portal de empreendimentos em produção, com áreas para clientes, empreiteiros e equipe interna. Construído com IA durante meu trabalho na ABA Consultoria.
+- **[Nick Finanças](https://github.com/NicKIsrael/nick-financas)**: app de finanças pessoais com versão web instalável (PWA) e desktop. [Ver site](https://nickfinancas.vercel.app).
+
+---
+
+### 🤖 Ferramentas de IA
+
+Claude · OpenAI Codex · ChatGPT · Gemini
+
+### 📚 Tecnologias que estou estudando
 
 <img 
     align="left" 
@@ -87,7 +98,7 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
     />
 </a>
 
-<a href="nicollasisrael1227@gmail.com">
+<a href="mailto:nicollasisrael1227@gmail.com">
     <img 
         alt="Gmail" 
         title="Entre em contato"
@@ -101,13 +112,11 @@ Estou focado principalmente no desenvolvimento backend utilizando C#, além de e
 
 ### 🚀 Atualmente estudando
 
-- Desenvolvimento Backend com C#
-- .NET e APIs REST
-- Banco de Dados Relacional
-- Arquitetura de Software
+- Agentes e automações com IA
+- C# e .NET
+- Banco de dados relacional
 - Git e GitHub
-- Linux
-- Estruturas de Dados e Algoritmos
+- Estruturas de dados e algoritmos
 
 ---
 

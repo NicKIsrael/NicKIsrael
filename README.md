@@ -11,7 +11,7 @@ Uso IA generativa para resolver problemas reais de negócio. Meu papel é entend
 ### 🛠️ Projetos em destaque
 
 - **[Portal ABA Consultorias](https://github.com/AbaConsultorias/aba-consultorias-portfolio)**: site institucional e portal de empreendimentos em produção, com áreas para clientes, empreiteiros e equipe interna. Construído com IA durante meu trabalho na ABA Consultoria.
-- **[Nick Finanças](https://github.com/NicKIsrael/nick-financas)**: app de finanças pessoais com versão web instalável (PWA) e desktop. [Ver site](https://nickfinancas.vercel.app).
+- **[Nick Finanças](https://github.com/NicKIsrael/nick-financas-portfolio)**: app de finanças pessoais com versão web instalável (PWA) e desktop. [Ver site](https://nickfinancas.vercel.app).
 
 ---
 
